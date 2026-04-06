@@ -1,0 +1,3 @@
+C:/Users/kamil/CLionProjects/Milionerzy/$ProjectFileDir$/CMakeFiles/Milionerzy.dir
+C:/Users/kamil/CLionProjects/Milionerzy/$ProjectFileDir$/CMakeFiles/edit_cache.dir
+C:/Users/kamil/CLionProjects/Milionerzy/$ProjectFileDir$/CMakeFiles/rebuild_cache.dir

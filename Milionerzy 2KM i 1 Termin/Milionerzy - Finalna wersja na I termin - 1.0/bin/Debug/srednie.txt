@@ -1,0 +1,50 @@
+"Jak nazywa się największe jezioro w Polsce?";"Śniardwy";"Mamry";"Wigry";"Hańcza";0
+"W którym roku odbył się chrzest Polski?";"966";"1025";"1410";"1772";0
+"Kto jest autorem 'Lalki'?";"Adam Mickiewicz";"Bolesław Prus";"Stefan Żeromski";"Henryk Sienkiewicz";1
+"Który pierwiastek jest głównym składnikiem diamentu?";"Węgiel";"Krzem";"Azot";"Wodór";0
+"Jakie miasto jest stolicą Szwajcarii?";"Zurych";"Genewa";"Berno";"Lozanna";2
+"Jakie państwo leży na Półwyspie Apenińskim?";"Hiszpania";"Włochy";"Grecja";"Portugalia";1
+"Który język programowania jest najstarszy?";"C";"Fortran";"Python";"Java";1
+"Jaka waluta obowiązuje w Japonii?";"Won";"Jen";"Peso";"Baht";1
+"W którym roku upadł Związek Radziecki?";"1989";"1991";"1993";"1995";1
+"Jaki gaz dominuje w atmosferze Ziemi?";"Tlen";"Azot";"Dwutlenek węgla";"Hel";1
+"Ile trwa rok na Marsie?";"365 dni";"687 dni";"432 dni";"220 dni";1
+"Jakie zwierzę jest symbolem WWF?";"Lew";"Słoń";"Panda";"Orzeł";2
+"Które morze nie ma bezpośredniego dostępu do oceanu?";"Bałtyckie";"Czerwone";"Śródziemne";"Japońskie";0
+"Jaką wartość ma liczba Avogadra?";"6.022×10^23";"9.81";"3.1415";"1.602×10^-19";0
+"W którym roku miała miejsce bitwa pod Grunwaldem?";"1320";"1410";"1492";"1605";1
+"Który pierwiastek chemiczny ma symbol 'O'?";"Złoto";"Węgiel";"Tlen";"Hel";2
+"Który kraj jest największym producentem kawy na świecie?";"Kolumbia";"Wietnam";"Brazylia";"Etiopia";2
+"Jak nazywa się najdłuższa rzeka w Azji?";"Jangcy";"Mekong";"Huang He";"Ob";0
+"Kto namalował 'Krzyk'?";"Vincent van Gogh";"Pablo Picasso";"Edvard Munch";"Salvador Dali";2
+"Który pierwiastek ma najwyższą temperaturę topnienia?";"Wolfram";"Osm";"Iryd";"Tantal";0
+"W którym roku wynaleziono telefon?";"1849";"1876";"1892";"1901";1
+"Jak nazywa się najgłębsze jezioro na świecie?";"Tanganika";"Bajkał";"Morze Kaspijskie";"Niasa";1
+"Który kompozytor był głuchy pod koniec życia?";"Wolfgang Amadeusz Mozart";"Ludwig van Beethoven";"Johann Sebastian Bach";"Fryderyk Chopin";1
+"Jaka jest średnica Ziemi na równiku?";"6 371 km";"12 742 km";"40 075 km";"51 118 km";1
+"Który kraj nie jest członkiem NATO?";"Austria";"Polska";"Kanada";"Wielka Brytania";0
+"Jak nazywa się najwyższy szczyt Andów?";"Aconcagua";"Denali";"Mount Everest";"Kilimandżaro";0
+"Kto odkrył prawo powszechnego ciążenia?";"Albert Einstein";"Isaac Newton";"Galileusz";"Nikola Tesla";1
+"Który metal jest najlżejszy?";"Żelazo";"Aluminium";"Lit";"Srebro";2
+"Jak nazywa się stolica Islandii?";"Oslo";"Reykjavík";"Helsinki";"Kopenhaga";1
+"Który kraj ma najwięcej stref czasowych?";"Chiny";"USA";"Rosja";"Kanada";2
+"Jak nazywa się największa pustynia na świecie?";"Sahara";"Gobi";"Antarktyda";"Kalahari";2
+"Kto napisał 'Zbrodnię i karę'?";"Lew Tołstoj";"Fiodor Dostojewski";"Anton Czechow";"Maksim Gorki";1
+"Który instrument muzyczny ma 88 klawiszy?";"Gitara";"Fortepian";"Skrzypce";"Organy";1
+"Jak nazywa się największy lądolód na Ziemi?";"Antarktyda";"Grenlandia";"Islandia";"Spitsbergen";1
+"Który kraj ma kształt buta?";"Francja";"Włochy";"Hiszpania";"Grecja";1
+"Jak nazywa się najstarsze miasto w Polsce?";"Gniezno";"Kraków";"Poznań";"Wrocław";0
+"Który pierwiastek jest używany w termometrach?";"Żelazo";"Rtęć";"Srebro";"Miedź";1
+"Jak nazywa się największy kanion na świecie?";"Wielki Kanion Kolorado";"Kanion Colca";"Kanion Yarlung Tsangpo";"Kanion Fish River";0
+"Który kraj nie leży nad Morzem Śródziemnym?";"Francja";"Portugalia";"Włochy";"Grecja";1
+"Kto wynalazł żarówkę?";"Thomas Edison";"Nikola Tesla";"Alexander Graham Bell";"Guglielmo Marconi";0
+"Jak nazywa się największy organizm na Ziemi?";"Panda wielka";"Sekwoja";"Wieloryb błękitny";"Grzyb opieńki w Oregonie";3
+"Który kraj ma najwięcej jezior?";"Kanada";"Finlandia";"Rosja";"Szwecja";0
+"Jak nazywa się najstarszy uniwersytet w Europie?";"Oxford";"Bolonii";"Sorbona";"Heidelberg";1
+"Który pierwiastek jest używany w bateriach litowych?";"Lit";"Kadm";"Nikiel";"Cynk";0
+"Jak nazywa się największy wodospad w Europie?";"Rheinfall";"Dettifoss";"Salto Angel";"Vinnufossen";1
+"Który kompozytor stworzył 'Cztery pory roku'?";"Johann Sebastian Bach";"Wolfgang Amadeusz Mozart";"Antonio Vivaldi";"Ludwig van Beethoven";2
+"Jak nazywa się największy aktywny wulkan w Europie?";"Etna";"Wezuwiusz";"Stromboli";"Eyjafjallajökull";0
+"Który kraj ma najwięcej wysp?";"Indonezja";"Filipiny";"Szwecja";"Grecja";0
+"Jak nazywa się największy gatunek pingwina?";"Pingwin cesarski";"Pingwin królewski";"Pingwin skalny";"Pingwin żółtooki";0
+"Który kraj nie jest członkiem Unii Europejskiej?";"Norwegia";"Dania";"Irlandia";"Belgia";0

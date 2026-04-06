@@ -1,0 +1,50 @@
+"Ktory pierwiastek ma najwyzsza temperature topnienia?";"Wolfram";"Osm";"Iridium";"Tantal";0
+"Kto skomponowal opere "Don Giovanni"?";"Ludwig van Beethoven";"Wolfgang Amadeus Mozart";"Giuseppe Verdi";"Richard Wagner";1
+"Jak nazywa sie najmniejsza jednostka informacji kwantowej?";"Bit";"Qubit";"Fermion";"Boson";1
+"Ktory matematyczny problem zostal rozwiazany przez Grigorija Perelmana?";"Hipoteza Goldbacha";"Twierdzenie Fermata";"Hipoteza Poincarego";"Hipoteza Riemanna";2
+"Jak nazywa sie najwyzszy wodospad swiata?";"Wodospad Niagara";"Wodospad Wiktorii";"Wodospad Tugela";"Salto Angel";3
+"Ktory pierwiastek chemiczny odkryl Marie Curie?";"Rad";"Uran";"Polon";"Tor";0
+"Jaka predkosc osiagnie dzwiek w powietrzu?";"343 m/s";"299 792 458 m/s";"1 225 km/h";"1000 m/s";0
+"W ktorym roku padl Mur Berlinski?";"1987";"1989";"1991";"1993";1
+"Kto wynalazl pierwszy silnik spalinowy?";"Rudolf Diesel";"Nikolaus Otto";"Karl Benz";"Gottlieb Daimler";1
+"Ktory pierwiastek jest najciezszy?";"Uran";"Pluton";"Oganesson";"Einsteinium";2
+"Kto napisal "Braci Karamazow"?";"Lew Tolstoj";"Fiodor Dostojewski";"Anton Czechow";"Maksim Gorki";1
+"Jak nazywa sie najstarszy znany manuskrypt swiata?";"Kodeks Leningradzki";"Zwoje znad Morza Martwego";"Papirus Ebersa";"Kodeks Synajski";2
+"Ktory kontynent nie ma stalej populacji ludzkiej?";"Antarktyda";"Australia";"Ameryka Poludniowa";"Afryka";0
+"Ktory jezyk jest uwazany za najtrudniejszy do nauki dla osob anglojezycznych?";"Japonski";"Chinski mandarynski";"Arabski";"Wegierski";1
+"Jaka wartosc ma stala Plancka?";"6.626×10^-34 J⋅s";"1.380×10^-23 J/K";"9.109×10^-31 kg";"3.1415";0
+"Ktory kraj ma najwiecej jezior na swiecie?";"Kanada";"Finlandia";"Rosja";"Szwecja";0
+"Jak nazywa sie najglebsze miejsce w oceanie?";"Rów Tonga";"Rów Mariański";"Rów Kurylsko-Kamczacki";"Rów Filipinski";1
+"Kto odkryl strukture DNA?";"Watson i Crick";"Mendel";"Pasteur";"Einstein";0
+"Ktory pierwiastek ma najnizsza temperature wrzenia?";"Hel";"Wodor";"Azot";"Tlen";0
+"Jak nazywa sie najstarsze znane pismo?";"Pismo klinowe";"Hieroglify";"Pismo linearne A";"Pismo sanskryckie";0
+"Ktory kraj ma najwiecej stref czasowych?";"USA";"Rosja";"Francja";"Chiny";2
+"Jak nazywa sie najwiekszy organ w ciele czlowieka?";"Mozg";"Watroba";"Skora";"Pluca";2
+"Ktory kompozytor byl gluchy przez wiekszosc zycia?";"Mozart";"Beethoven";"Bach";"Chopin";1
+"Jak nazywa sie najstarszy uniwersytet na swiecie?";"Oxford";"Bolonii";"Sorbona";"Karueein";3
+"Ktory pierwiastek jest uzywany w datowaniu radioweglowym?";"Wegiel-14";"Potas-40";"Uran-238";"Tor-232";0
+"Jak nazywa sie najwiekszy krazek w ukladzie slonecznym?";"Pas Kuipera";"Pas planetoid";"Pierscienie Saturna";"Obłok Oorta";2
+"Kto wynalazl penicyling?";"Marie Curie";"Alexander Fleming";"Louis Pasteur";"Robert Koch";1
+"Ktory kraj ma najwiecej aktywnych wulkanow?";"Japonia";"Indonezja";"Islandia";"Chile";1
+"Jak nazywa sie najwiekszy lodowiec w Europie?";"Vatnajokull";"Jostedalsbreen";"Aletsch";"Austfonna";0
+"Ktory pierwiastek jest najczestszy we wszechswiecie?";"Wodor";"Tlen";"Wegiel";"Hel";0
+"Jak nazywa sie najstarsze drzewo na swiecie?";"Matuzalem";"Prometeusz";"Old Tjikko";"Sarv-e Abarkuh";0
+"Ktory kraj ma najwiecej wysp?";"Filipiny";"Indonezja";"Szwecja";"Grecja";1
+"Jak nazywa sie najwiekszy koralowy atol na swiecie?";"Bikini";"Kwajalein";"Great Chagos Bank";"Aldabra";2
+"Kto odkryl neutrony?";"Ernest Rutherford";"James Chadwick";"Niels Bohr";"J.J. Thomson";1
+"Ktory pierwiastek jest najciezszy wystepujacy naturalnie?";"Uran";"Pluton";"Tor";"Rad";0
+"Jak nazywa sie najwiekszy kregowiec w historii Ziemi?";"Dinozaur";"Plejozaur";"Mozazaur";"Niebieski wieloryb";3
+"Ktory kraj ma najwiecej jezior w Europie?";"Finlandia";"Szwecja";"Norwegia";"Polska";0
+"Jak nazywa sie najstarsza znana cywilizacja?";"Sumerowie";"Egipcjanie";"Indusowie";"Olmekowie";0
+"Ktory pierwiastek jest uzywany w reaktorach jadrowych jako paliwo?";"Uran-235";"Pluton-239";"Tor-232";"Rad-226";0
+"Jak nazywa sie najwiekszy kanion w ukladzie slonecznym?";"Valles Marineris";"Grand Canyon";"Copper Canyon";"Yarlung Tsangpo";0
+"Kto odkryl zjawisko promieniotworczosci?";"Marie Curie";"Ernest Rutherford";"Henri Becquerel";"Max Planck";2
+"Ktory kraj ma najwieksza liczbe jezykow urzedowych?";"Indie";"RPA";"Singapur";"Szwajcaria";1
+"Jak nazywa sie najwiekszy organizm fotosyntetyzujacy na Ziemi?";"Pando";"Posidonia oceanica";"Wielka Rafa Koralowa";"Amazonia";2
+"Ktory pierwiastek jest najrzadszy w skorupie ziemskiej?";"Astat";"Fran";"Radon";"Protaktyn";0
+"Jak nazywa sie najstarsza znana galaktyka?";"GN-z11";"CEERS-93316";"HD1";"MACS1149-JD1";0
+"Kto udowodnil Wielkie Twierdzenie Fermata?";"Andrew Wiles";"Grigorij Perelman";"Terence Tao";"John Nash";0
+"Ktory kraj ma najwiecej zamkow na swiecie?";"Francja";"Niemcy";"Wielka Brytania";"Czechy";1
+"Jak nazywa sie najwiekszy kregowiec ladowy w historii?";"Argentynozaur";"Tyrannosaurus rex";"Spinozaur";"Dreadnoughtus";0
+"Ktory pierwiastek jest uzywany w zegarach atomowych?";"Cez";"Rubid";"Wodór";"Wapn";0
+"Jak nazywa sie najstarszy znany organizm wielokomorkowy?";"Grypania";"Dickinsonia";"Charnia";"Spriggina";0

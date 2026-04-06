@@ -1,0 +1,179 @@
+\doxysection{Funkcje pomocnicze}
+\hypertarget{group___utility_functions}{}\label{group___utility_functions}\index{Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{group___utility_functions_ga0b8f1d13a4ef5158bc19ac4250c27673}{clean\+\_\+string}} (char \texorpdfstring{$\ast$}{*}str)
+\begin{DoxyCompactList}\small\item\em Usuwa cudzysłowy z początku i końca stringa. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{group___utility_functions_ga2036fd4c1e2abdc2777e66b8f9b852e1}{toggle\+\_\+fullscreen}} (\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}res)
+\begin{DoxyCompactList}\small\item\em Przełącza tryb pełnoekranowy. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{group___utility_functions_gaf6312696b39f64424b62313c23757dce}{scale\+\_\+x}} (\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}res, float x)
+\begin{DoxyCompactList}\small\item\em Skaluje współrzędną X do aktualnego rozmiaru ekranu. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{group___utility_functions_gacb1adb11dc52e93bffd55d780c31e481}{scale\+\_\+y}} (\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}res, float y)
+\begin{DoxyCompactList}\small\item\em Skaluje współrzędną Y do aktualnego rozmiaru ekranu. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{group___utility_functions_gaf0d6a38bf600d7f2a99716a1c27147a9}{draw\+\_\+text\+\_\+centered}} (\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}res, ALLEGRO\+\_\+\+FONT \texorpdfstring{$\ast$}{*}font, const char \texorpdfstring{$\ast$}{*}text, float y, ALLEGRO\+\_\+\+COLOR color)
+\begin{DoxyCompactList}\small\item\em Rysuje tekst wycentrowany na ekranie. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{group___utility_functions_gac9ba80965ddb301eb6f901c5a1bb2b24}{draw\+\_\+button}} (\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}res, ALLEGRO\+\_\+\+FONT \texorpdfstring{$\ast$}{*}font, const char \texorpdfstring{$\ast$}{*}text, float x, float y, float w, float h, ALLEGRO\+\_\+\+COLOR bg, ALLEGRO\+\_\+\+COLOR text\+\_\+color)
+\begin{DoxyCompactList}\small\item\em Rysuje przycisk. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{group___utility_functions_gabc4306fd35f4c1e1f5fbc30e8fb6e1b4}{is\+\_\+mouse\+\_\+over\+\_\+button}} (\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}res, float mx, float my, float x, float y, float w, float h)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy kursor myszy jest nad przyciskiem. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{group___utility_functions_ga0b8f1d13a4ef5158bc19ac4250c27673}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!clean\_string@{clean\_string}}
+\index{clean\_string@{clean\_string}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{clean\_string()}{clean\_string()}}
+{\footnotesize\ttfamily \label{group___utility_functions_ga0b8f1d13a4ef5158bc19ac4250c27673} 
+void clean\+\_\+string (\begin{DoxyParamCaption}\item[{char \texorpdfstring{$\ast$}{*}}]{str}{}\end{DoxyParamCaption})}
+
+
+
+Usuwa cudzysłowy z początku i końca stringa. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in,out}}  & {\em str} & Łańcuch znaków do oczyszczenia \\
+\hline
+\end{DoxyParams}
+\Hypertarget{group___utility_functions_gac9ba80965ddb301eb6f901c5a1bb2b24}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!draw\_button@{draw\_button}}
+\index{draw\_button@{draw\_button}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{draw\_button()}{draw\_button()}}
+{\footnotesize\ttfamily \label{group___utility_functions_gac9ba80965ddb301eb6f901c5a1bb2b24} 
+void draw\+\_\+button (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}}]{res}{, }\item[{ALLEGRO\+\_\+\+FONT \texorpdfstring{$\ast$}{*}}]{font}{, }\item[{const char \texorpdfstring{$\ast$}{*}}]{text}{, }\item[{float}]{x}{, }\item[{float}]{y}{, }\item[{float}]{w}{, }\item[{float}]{h}{, }\item[{ALLEGRO\+\_\+\+COLOR}]{bg}{, }\item[{ALLEGRO\+\_\+\+COLOR}]{text\+\_\+color}{}\end{DoxyParamCaption})}
+
+
+
+Rysuje przycisk. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em res} & Wskaźnik na zasoby gry \\
+\hline
+{\em font} & Czcionka do użycia \\
+\hline
+{\em text} & Tekst przycisku \\
+\hline
+{\em x} & Pozycja X przycisku \\
+\hline
+{\em y} & Pozycja Y przycisku \\
+\hline
+{\em w} & Szerokość przycisku \\
+\hline
+{\em h} & Wysokość przycisku \\
+\hline
+{\em bg} & Kolor tła przycisku \\
+\hline
+{\em text\+\_\+color} & Kolor tekstu przycisku \\
+\hline
+\end{DoxyParams}
+\Hypertarget{group___utility_functions_gaf0d6a38bf600d7f2a99716a1c27147a9}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!draw\_text\_centered@{draw\_text\_centered}}
+\index{draw\_text\_centered@{draw\_text\_centered}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{draw\_text\_centered()}{draw\_text\_centered()}}
+{\footnotesize\ttfamily \label{group___utility_functions_gaf0d6a38bf600d7f2a99716a1c27147a9} 
+void draw\+\_\+text\+\_\+centered (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}}]{res}{, }\item[{ALLEGRO\+\_\+\+FONT \texorpdfstring{$\ast$}{*}}]{font}{, }\item[{const char \texorpdfstring{$\ast$}{*}}]{text}{, }\item[{float}]{y}{, }\item[{ALLEGRO\+\_\+\+COLOR}]{color}{}\end{DoxyParamCaption})}
+
+
+
+Rysuje tekst wycentrowany na ekranie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em res} & Wskaźnik na zasoby gry \\
+\hline
+{\em font} & Czcionka do użycia \\
+\hline
+{\em text} & Tekst do wyświetlenia \\
+\hline
+{\em y} & Pozycja Y tekstu \\
+\hline
+{\em color} & Kolor tekstu \\
+\hline
+\end{DoxyParams}
+\Hypertarget{group___utility_functions_gabc4306fd35f4c1e1f5fbc30e8fb6e1b4}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!is\_mouse\_over\_button@{is\_mouse\_over\_button}}
+\index{is\_mouse\_over\_button@{is\_mouse\_over\_button}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{is\_mouse\_over\_button()}{is\_mouse\_over\_button()}}
+{\footnotesize\ttfamily \label{group___utility_functions_gabc4306fd35f4c1e1f5fbc30e8fb6e1b4} 
+bool is\+\_\+mouse\+\_\+over\+\_\+button (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}}]{res}{, }\item[{float}]{mx}{, }\item[{float}]{my}{, }\item[{float}]{x}{, }\item[{float}]{y}{, }\item[{float}]{w}{, }\item[{float}]{h}{}\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy kursor myszy jest nad przyciskiem. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em res} & Wskaźnik na zasoby gry \\
+\hline
+{\em mx} & Pozycja X kursora \\
+\hline
+{\em my} & Pozycja Y kursora \\
+\hline
+{\em x} & Pozycja X przycisku \\
+\hline
+{\em y} & Pozycja Y przycisku \\
+\hline
+{\em w} & Szerokość przycisku \\
+\hline
+{\em h} & Wysokość przycisku \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+true jeśli kursor jest nad przyciskiem, false w przeciwnym wypadku 
+\end{DoxyReturn}
+\Hypertarget{group___utility_functions_gaf6312696b39f64424b62313c23757dce}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!scale\_x@{scale\_x}}
+\index{scale\_x@{scale\_x}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{scale\_x()}{scale\_x()}}
+{\footnotesize\ttfamily \label{group___utility_functions_gaf6312696b39f64424b62313c23757dce} 
+float scale\+\_\+x (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}}]{res}{, }\item[{float}]{x}{}\end{DoxyParamCaption})}
+
+
+
+Skaluje współrzędną X do aktualnego rozmiaru ekranu. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em res} & Wskaźnik na zasoby gry \\
+\hline
+{\em x} & Współrzędna X do przeskalowania \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Przeskalowana współrzędna X 
+\end{DoxyReturn}
+\Hypertarget{group___utility_functions_gacb1adb11dc52e93bffd55d780c31e481}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!scale\_y@{scale\_y}}
+\index{scale\_y@{scale\_y}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{scale\_y()}{scale\_y()}}
+{\footnotesize\ttfamily \label{group___utility_functions_gacb1adb11dc52e93bffd55d780c31e481} 
+float scale\+\_\+y (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}}]{res}{, }\item[{float}]{y}{}\end{DoxyParamCaption})}
+
+
+
+Skaluje współrzędną Y do aktualnego rozmiaru ekranu. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em res} & Wskaźnik na zasoby gry \\
+\hline
+{\em y} & Współrzędna Y do przeskalowania \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Przeskalowana współrzędna Y 
+\end{DoxyReturn}
+\Hypertarget{group___utility_functions_ga2036fd4c1e2abdc2777e66b8f9b852e1}\index{Funkcje pomocnicze@{Funkcje pomocnicze}!toggle\_fullscreen@{toggle\_fullscreen}}
+\index{toggle\_fullscreen@{toggle\_fullscreen}!Funkcje pomocnicze@{Funkcje pomocnicze}}
+\doxysubsubsection{\texorpdfstring{toggle\_fullscreen()}{toggle\_fullscreen()}}
+{\footnotesize\ttfamily \label{group___utility_functions_ga2036fd4c1e2abdc2777e66b8f9b852e1} 
+void toggle\+\_\+fullscreen (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_game_resources}{Game\+Resources}} \texorpdfstring{$\ast$}{*}}]{res}{}\end{DoxyParamCaption})}
+
+
+
+Przełącza tryb pełnoekranowy. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in,out}}  & {\em res} & Wskaźnik na zasoby gry \\
+\hline
+\end{DoxyParams}

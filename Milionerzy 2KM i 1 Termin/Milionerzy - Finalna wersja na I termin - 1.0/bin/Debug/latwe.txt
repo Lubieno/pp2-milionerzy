@@ -1,0 +1,55 @@
+"Jaka jest stolica Francji?";"Londyn";"Berlin";"Paryż";"Rzym";2
+"Ile wynosi 2+2?";"3";"4";"5";"6";1
+"Który z tych jest owocem?";"Marchew";"Jabłko";"Ziemniak";"Cebula";1
+"Jak nazywa się nasza galaktyka?";"Andromeda";"Droga Mleczna";"Sombrero";"Wir";1
+"Który z tych jest planetą?";"Księżyc";"Słońce";"Ziemia";"Mars";2
+"Jakiego koloru jest trawa?";"Niebieski";"Żółty";"Zielony";"Czerwony";2
+"Ile nóg ma pies?";"2";"4";"6";"8";1
+"Który miesiąc jest pierwszy w roku?";"Luty";"Kwiecień";"Styczeń";"Czerwiec";2
+"Jak nazywa się największy ocean?";"Atlantycki";"Indyjski";"Spokojny";"Arktyczny";2
+"Co jest stolicą Polski?";"Kraków";"Gdańsk";"Warszawa";"Poznań";2
+"Który z tych jest warzywem?";"Banan";"Pomarańcza";"Pomidor";"Winogrono";2
+"Ile godzin ma doba?";"12";"24";"36";"48";1
+"Jak nazywa się największy kontynent?";"Afryka";"Europa";"Australia";"Azja";3
+"Który z tych jest stolicą Niemiec?";"Monachium";"Hamburg";"Berlin";"Kolonia";2
+"Co mierzy termometr?";"Ciśnienie";"Temperatura";"Wagę";"Czas";1
+"Jak nazywa się najbliższa gwiazda Ziemi?";"Syriusz";"Proxima Centauri";"Słońce";"Wega";2
+"Ile dni ma tydzień?";"5";"6";"7";"8";2
+"Który z tych jest napojem?";"Chleb";"Woda";"Ser";"Mięso";1
+"Jak nazywa się kształt Ziemi?";"Kwadrat";"Trójkąt";"Kula";"Prostokąt";2
+"Który z tych jest metalem?";"Węgiel";"Żelazo";"Tlen";"Wodór";1
+"Co jest symbolem chemicznym wody?";"CO2";"NaCl";"H2O";"O2";2
+"Jak nazywa się prezydent USA w 2020 roku?";"Barack Obama";"Donald Trump";"Joe Biden";"George Bush";1
+"Ile liter ma alfabet angielski?";"24";"26";"28";"30";1
+"Który z tych jest stolicą Włoch?";"Mediolan";"Wenecja";"Rzym";"Neapol";2
+"Jak nazywa się największe zwierzę lądowe?";"Żył";"Słoń";"Żyrafa";"Niedźwiedź";1
+"Który z tych jest kolorem podstawowym?";"Różowy";"Fioletowy";"Żółty";"Brązowy";2
+"Jak nazywa się największa góra świata?";"K2";"Mount Everest";"Kilimandżaro";"Aconcagua";1
+"Który z tych jest stolicą Hiszpanii?";"Barcelona";"Madryt";"Sewilla";"Walencja";1
+"Ile stron ma kwadrat?";"3";"4";"5";"6";1
+"Jak nazywa się największa ryba?";"Rekin wielorybi";"Delfin";"Wieloryb";"Oświęk";0
+"Który instrument ma struny?";"Fortepian";"Skrzypce";"Trąbka";"Bęben";1
+"Jak nazywa się stolica Kanady?";"Toronto";"Montreal";"Ottawa";"Vancouver";2
+"Który owoc jest żółty?";"Jabłko";"Banan";"Winogrono";"Truskawka";1
+"Ile planet jest w układzie słonecznym?";"7";"8";"9";"10";1
+"Który sport używa rakiety?";"Piłka nożna";"Tenis";"Koszykówka";"Baseball";1
+"Jak nazywa się stolica Egiptu?";"Aleksandria";"Kair";"Luxor";"Giza";1
+"Który ptak nie lata?";"Orzeł";"Struś";"Jastrząb";"Sokół";1
+"Który materiał jest najtwardszy?";"Żelazo";"Diament";"Złoto";"Aluminium";1
+"Jak nazywa się stolica Australii?";"Sydney";"Melbourne";"Canberra";"Brisbane";2
+"Który owoc ma pestkę?";"Banan";"Pomarańcza";"Brzoskwinia";"Winogrono";2
+"Ile boków ma pięciokąt?";"4";"5";"6";"7";1
+"Który kraj ma kształt buta?";"Francja";"Włochy";"Hiszpania";"Grecja";1
+"Jak nazywa się stolica Brazylii?";"Rio de Janeiro";"Sao Paulo";"Brasilia";"Salvador";2
+"Który zawodnik piłki nożnej zdobył najwięcej Złotych Piłek?";"Cristiano Ronaldo";"Lionel Messi";"Pelé";"Maradona";1
+"Który owoc jest czerwony?";"Banan";"Jabłko";"Gruszka";"Pomarańcza";1
+"Jak nazywa się stolica Japonii?";"Osaka";"Kioto";"Tokio";"Hiroszima";2
+"Który kolor nie jest w tęczy?";"Różowy";"Czerwony";"Niebieski";"Żółty";0
+"Ile wynosi 5x5?";"10";"15";"20";"25";3
+"Który kontynent jest najmniejszy?";"Afryka";"Australia";"Europa";"Antarktyda";1
+"Jak nazywa się stolica Meksyku?";"Cancún";"Guadalajara";"Monterrey";"Meksyk";3
+"Który owoc jest zielony?";"Jabłko";"Banan";"Kiwi";"Pomarańcza";2
+"Który instrument jest dęty?";"Fortepian";"Skrzypce";"Trąbka";"Gitara";2
+"Ile wynosi 100 podzielone przez 10?";"1";"5";"10";"20";2
+"Który kraj ma flagę z czerwonym kołem?";"Chiny";"Japonia";"Korea Południowa";"Wietnam";1
+"Jak nazywa się stolica Argentyny?";"Rio de Janeiro";"Lima";"Buenos Aires";"Santiago";2

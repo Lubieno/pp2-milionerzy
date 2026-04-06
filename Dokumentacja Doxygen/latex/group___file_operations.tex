@@ -1,0 +1,95 @@
+\doxysection{Funkcje operacji na plikach}
+\hypertarget{group___file_operations}{}\label{group___file_operations}\index{Funkcje operacji na plikach@{Funkcje operacji na plikach}}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{struct_question}{Question}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{group___file_operations_ga4eeca368a4bd3b22433d3f3da9d73d08}{load\+\_\+questions}} (const char \texorpdfstring{$\ast$}{*}filename, int \texorpdfstring{$\ast$}{*}count)
+\begin{DoxyCompactList}\small\item\em Wczytuje pytania z pliku. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{group___file_operations_gaf04973997cd696b9eb4a643e4227a7f4}{save\+\_\+players}} ()
+\begin{DoxyCompactList}\small\item\em Zapisuje listę graczy do pliku. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group___file_operations_ga3b0b316cdf1b4a4dc62b890abe20ec93}{load\+\_\+players}} ()
+\begin{DoxyCompactList}\small\item\em Wczytuje listę graczy z pliku. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group___file_operations_ga43c6d87e949648eff21e0ca48a89dec2}{find\+\_\+player\+\_\+by\+\_\+name}} (const char \texorpdfstring{$\ast$}{*}name)
+\begin{DoxyCompactList}\small\item\em Wyszukuje gracza po nazwie. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group___file_operations_gad24edb350694712cb1a1a9588b752f63}{get\+\_\+next\+\_\+player\+\_\+id}} ()
+\begin{DoxyCompactList}\small\item\em Generuje nowe ID dla gracza. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{group___file_operations_ga43c6d87e949648eff21e0ca48a89dec2}\index{Funkcje operacji na plikach@{Funkcje operacji na plikach}!find\_player\_by\_name@{find\_player\_by\_name}}
+\index{find\_player\_by\_name@{find\_player\_by\_name}!Funkcje operacji na plikach@{Funkcje operacji na plikach}}
+\doxysubsubsection{\texorpdfstring{find\_player\_by\_name()}{find\_player\_by\_name()}}
+{\footnotesize\ttfamily \label{group___file_operations_ga43c6d87e949648eff21e0ca48a89dec2} 
+int find\+\_\+player\+\_\+by\+\_\+name (\begin{DoxyParamCaption}\item[{const char \texorpdfstring{$\ast$}{*}}]{name}{}\end{DoxyParamCaption})}
+
+
+
+Wyszukuje gracza po nazwie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & Nazwa gracza do znalezienia \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Indeks gracza w tablicy lub -\/1 jeśli nie znaleziono 
+\end{DoxyReturn}
+\Hypertarget{group___file_operations_gad24edb350694712cb1a1a9588b752f63}\index{Funkcje operacji na plikach@{Funkcje operacji na plikach}!get\_next\_player\_id@{get\_next\_player\_id}}
+\index{get\_next\_player\_id@{get\_next\_player\_id}!Funkcje operacji na plikach@{Funkcje operacji na plikach}}
+\doxysubsubsection{\texorpdfstring{get\_next\_player\_id()}{get\_next\_player\_id()}}
+{\footnotesize\ttfamily \label{group___file_operations_gad24edb350694712cb1a1a9588b752f63} 
+int get\+\_\+next\+\_\+player\+\_\+id (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Generuje nowe ID dla gracza. 
+
+\begin{DoxyReturn}{Returns}
+Nowe unikalne ID gracza 
+\end{DoxyReturn}
+\Hypertarget{group___file_operations_ga3b0b316cdf1b4a4dc62b890abe20ec93}\index{Funkcje operacji na plikach@{Funkcje operacji na plikach}!load\_players@{load\_players}}
+\index{load\_players@{load\_players}!Funkcje operacji na plikach@{Funkcje operacji na plikach}}
+\doxysubsubsection{\texorpdfstring{load\_players()}{load\_players()}}
+{\footnotesize\ttfamily \label{group___file_operations_ga3b0b316cdf1b4a4dc62b890abe20ec93} 
+int load\+\_\+players (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Wczytuje listę graczy z pliku. 
+
+\begin{DoxyReturn}{Returns}
+Liczba wczytanych graczy 
+\end{DoxyReturn}
+\Hypertarget{group___file_operations_ga4eeca368a4bd3b22433d3f3da9d73d08}\index{Funkcje operacji na plikach@{Funkcje operacji na plikach}!load\_questions@{load\_questions}}
+\index{load\_questions@{load\_questions}!Funkcje operacji na plikach@{Funkcje operacji na plikach}}
+\doxysubsubsection{\texorpdfstring{load\_questions()}{load\_questions()}}
+{\footnotesize\ttfamily \label{group___file_operations_ga4eeca368a4bd3b22433d3f3da9d73d08} 
+\mbox{\hyperlink{struct_question}{Question}} \texorpdfstring{$\ast$}{*} load\+\_\+questions (\begin{DoxyParamCaption}\item[{const char \texorpdfstring{$\ast$}{*}}]{filename}{, }\item[{int \texorpdfstring{$\ast$}{*}}]{count}{}\end{DoxyParamCaption})}
+
+
+
+Wczytuje pytania z pliku. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em filename} & Nazwa pliku z pytaniami \\
+\hline
+{\em count} & Wskaźnik na liczbę wczytanych pytań \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Wskaźnik na tablicę pytań lub NULL w przypadku błędu 
+\end{DoxyReturn}
+\Hypertarget{group___file_operations_gaf04973997cd696b9eb4a643e4227a7f4}\index{Funkcje operacji na plikach@{Funkcje operacji na plikach}!save\_players@{save\_players}}
+\index{save\_players@{save\_players}!Funkcje operacji na plikach@{Funkcje operacji na plikach}}
+\doxysubsubsection{\texorpdfstring{save\_players()}{save\_players()}}
+{\footnotesize\ttfamily \label{group___file_operations_gaf04973997cd696b9eb4a643e4227a7f4} 
+void save\+\_\+players (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Zapisuje listę graczy do pliku. 
+
